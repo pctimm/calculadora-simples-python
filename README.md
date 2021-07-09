@@ -1,6 +1,6 @@
 # calculadora-simples-python
 Olá!
-Esta é uma calculadora em Python, que tenho a ideia de integrar com a Interface Gráfica (GUI) da biblioteca tkinter. Projeto pessoal, treinamento.
+Esta é uma **calculadora em Python**, que tenho a ideia de integrar com a Interface Gráfica (GUI) da biblioteca tkinter. Projeto pessoal, para fins de treinamento.
 
 # Ideias:
 - integrar com uma GUI;
@@ -11,3 +11,5 @@ Esta é uma calculadora em Python, que tenho a ideia de integrar com a Interface
 # Documentação:
 - https://docs.python.org/3/library/tk.html
 - https://tkdocs.com/tutorial/firstexample.html Tutorial mais amigável para iniciantes (criação de convertor de pés para metros)
+- https://www.tutorialspoint.com/python/tk_grid.htm Como usar o GRID da biblioteca tkinter
+- https://pypi.org/project/keyboard/ Biblioteca Keyboard (readme)
