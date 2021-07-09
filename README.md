@@ -10,3 +10,4 @@ Esta é uma calculadora em Python, que tenho a ideia de integrar com a Interface
 
 # Documentação:
 - https://docs.python.org/3/library/tk.html
+- https://tkdocs.com/tutorial/firstexample.html Tutorial mais amigável para iniciantes (criação de convertor de pés para metros)
